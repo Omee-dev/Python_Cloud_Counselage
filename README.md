@@ -16,3 +16,13 @@ This project is a data analysis application built using Streamlit. It processes 
    ```sh
    git clone https://github.com/your-username/cloud-counselage-project.git
    cd cloud-counselage-project
+2. Install the required packages:
+   ```sh
+   pip install -r requirements.txt
+3. Run the Streamlit app:
+   ```sh
+   streamlit run app.py
+## File Structure
+- app.py: Main application file containing the Streamlit code.
+- Input/Data analyst Data.xlsx: Input dataset file.
+- requirements.txt: List of dependencies required to run the app.
