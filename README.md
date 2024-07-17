@@ -24,5 +24,5 @@ This project is a data analysis application built using Streamlit. It processes 
    streamlit run app.py
 ## File Structure
 - app.py: Main application file containing the Streamlit code.
-- Input/Data analyst Data.xlsx: Input dataset file.
+- Input/Data analyst Data.xlsx: Input dataset file.(Download from IAC and then move it to Input folder)
 - requirements.txt: List of dependencies required to run the app.
