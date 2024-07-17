@@ -14,7 +14,7 @@ This project is a data analysis application built using Streamlit. It processes 
 ## Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/cloud-counselage-project.git
+   git clone https://github.com/Omee-dev/Python_Cloud_Counselage.git
    cd cloud-counselage-project
 2. Install the required packages:
    ```sh
